@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamaali Dilka</h1>
-<h3 align="center">I am undergraduate in Computing and Information Systems at Sabaragamuwa University of Sri Lanka. I am interest for Full Stack Developing and Data Science.</h3>
+<h3 align="center">I am undergraduate in Computing and Information Systems at Sabaragamuwa University of Sri Lanka. I am interest in Full Stack Developing and Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamaali&label=Profile%20views&color=0e75b6&style=flat" alt="chamaali" /> </p>
 
